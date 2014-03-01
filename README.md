@@ -12,4 +12,5 @@ Related Posts
 Changelog
 =============
 
+01 Mar 2014 - Added apache-combined logstash config
 22 Feb 2014 - Repository created; uploaded apache-common logstash config.
