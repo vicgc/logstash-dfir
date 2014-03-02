@@ -15,6 +15,7 @@ Related Posts
 
 Changelog
 =============
+02 Mar 2014 - Added log2timeline logstash config
 
 01 Mar 2014 - Added apache-combined logstash config
 
